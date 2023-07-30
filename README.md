@@ -1,10 +1,7 @@
 # ReFuel AI ⛽
 It's a Map extention ai which calculates the refueling time of cars standing in queue. Makes the decision making better for the Driver.
 Please use carcounter.py file to run the code.
-
-<center>![image](https://github.com/iamamanporwal/ReFueling-ai/assets/74871831/b4493b07-e8d6-463e-affa-f20b643ecd3b)
- =400x250 <center/>
-
+![image](https://github.com/iamamanporwal/ReFueling-ai/assets/74871831/c57d00b9-7c87-49b0-96e6-739888b7f113)
 
 # Achievements 🎯
 * This is a hackathon project for Ashok Leyland based on Data science 📊.
