@@ -2,6 +2,9 @@
 It's a Map extention ai which calculates the time of cars standing in queue. Makes the decision making better for the Driver.
 Please use carcounter.py file to run the code.
 
+![image](https://github.com/iamamanporwal/ReFueling-ai/assets/74871831/43a54292-95fd-4c1f-a64f-3624d5a167ba)
+
+
 # Achievements 🎯
 * This is a hackathon project for Ashok Leyland based on Data science 📊.
 * Our Project became CODEBREAK 4.0 2023 Finalist 🥇.
