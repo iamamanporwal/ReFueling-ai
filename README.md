@@ -2,7 +2,8 @@
 It's a Map extention ai which calculates the refueling time of cars standing in queue. Makes the decision making better for the Driver.
 Please use carcounter.py file to run the code.
 
-<center>![image](https://github.com/iamamanporwal/ReFueling-ai/assets/74871831/0ac8f553-ea43-4c29-a351-92bd133befd5) =400x250 <center/>
+<center>![image](https://github.com/iamamanporwal/ReFueling-ai/assets/74871831/b4493b07-e8d6-463e-affa-f20b643ecd3b)
+ =400x250 <center/>
 
 
 # Achievements 🎯
