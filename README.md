@@ -11,4 +11,4 @@ Please use carcounter.py file to run the code.
 # IMPORTANT ⌛
 * It was a Hackathon Project designed for Ashoke Leyland.
 * Our model counts the number of vehicles present in the queue through CCTV, identifies the type of vehicles then adds respective the time it will take to find an estimated time for refueling.
-* Tech Stack: Python, OpenCV, YOLOv5 and numpy.
+* Tech Stack: Python, OpenCV, YOLOv5 and NumPy.
